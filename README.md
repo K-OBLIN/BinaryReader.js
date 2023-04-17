@@ -21,7 +21,7 @@ You can read arrays in **binary format**.
         // Read
         br.ReadData(arr);
         
-        console.log(arr);
+        console.log(br.Datas);
     };
 </script>
 ```
